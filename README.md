@@ -1,6 +1,6 @@
 # Mathematical Calculator Project
 
-The Mathematical Calculator is a web-based calculator developed using HTML, *CSS, and JavaScript. It performs all basic mathematical operations and stores the history of the previous two calculations, allowing users to view their recent operations.
+The Mathematical Calculator is a web-based calculator developed using HTML, CSS, and JavaScript. It performs all basic mathematical operations and stores the history of the previous two calculations, allowing users to view their recent operations.
 
 ## Table of Contents
 
